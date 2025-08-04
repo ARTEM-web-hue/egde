@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://artem-web-hue.github.io/egde/sitemap.xml
